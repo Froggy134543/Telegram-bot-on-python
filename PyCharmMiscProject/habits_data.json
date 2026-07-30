@@ -1,0 +1,31 @@
+{
+  "7098116202": {
+    "habits": [
+      "математика",
+      "math"
+    ],
+    "history": [
+      {
+        "habit": "математика",
+        "date": "2026-03-30",
+        "status": "skip"
+      },
+      {
+        "habit": "math",
+        "date": "2026-03-30",
+        "status": "skip"
+      },
+      {
+        "habit": "математика",
+        "date": "2026-03-31",
+        "status": "skip"
+      },
+      {
+        "habit": "math",
+        "date": "2026-03-31",
+        "status": "skip"
+      }
+    ],
+    "reminder_time": "20:36"
+  }
+}
